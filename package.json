@@ -1,0 +1,23 @@
+
+  "name": "node-learning",
+  "version": "1.0.0",
+  "description": "Node learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shekhar123sajwan/node-learning.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Shekhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shekhar123sajwan/node-learning/issues"
+  },
+  "homepage": "https://github.com/shekhar123sajwan/node-learning#readme"
+}
